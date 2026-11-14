@@ -1,0 +1,38 @@
+# BoardHydra — themed from boardhydra.com
+# Surfaces/text: web/src/styles/global.css tokens (--bg, --panel, --text, --muted…)
+# Accents: the three hydra heads of the logo (blue → teal → green)
+mode = "dark"
+
+accent = "#3ba597"            # hydra teal (center head / middle column)
+selection = "#2d2742"         # --panel3
+muted = "#6c6487"             # --faint
+
+background = "#15121f"        # --bg2
+dark_background = "#0d0b14"   # --bg
+darker_background = "#08070d"
+lighter_background = "#241f35" # --panel2
+
+foreground = "#ece6f7"        # --text
+dark_foreground = "#9a91b3"   # --muted
+light_foreground = "#d6cfe6"
+bright_foreground = "#f7f3fd"
+
+red = "#ff5d6c"               # --bad
+yellow = "#f2c35b"            # --gold
+orange = "#ff9a3a"
+green = "#4db381"             # hydra green
+cyan = "#5ee0ff"              # --gem
+blue = "#2785c2"              # hydra blue
+magenta = "#c69bff"           # --shard
+brown = "#b8862b"             # --gold2
+
+bright_red = "#ff8591"
+bright_yellow = "#ffd47e"
+bright_green = "#5be38c"      # --good
+bright_cyan = "#8ae9ff"
+bright_blue = "#3f9bff"
+bright_magenta = "#d9bcff"
+
+# Window borders: the logo's blue → teal → green sweep
+hyprland_active_border = "rgba(2785c2ee) rgba(3ba597ee) rgba(4db381ee) 45deg"
+hyprland_inactive_border = "rgba(342e4aaa)"
