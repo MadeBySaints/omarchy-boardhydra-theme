@@ -30,3 +30,7 @@ Use `omarchy theme bg next` to cycle between them.
 ```bash
 omarchy theme remove boardhydra
 ```
+
+## License
+
+The config files (`colors.toml`, `icons.theme`) are MIT licensed. The wallpapers and unlock artwork are © madebysaints, all rights reserved: you can use them as part of this theme but not reuse or modify them elsewhere. See [LICENSE](LICENSE) for details.
