@@ -1,8 +1,23 @@
 # BoardHydra theme for Omarchy
 
-A violet-black and gold [Omarchy](https://omarchy.org/) theme based on [BoardHydra](https://boardhydra.com), with hydra and kanban-board wallpapers.
+A violet-black theme with blue, teal, green and gold accents for [Omarchy](https://omarchy.org/), based on [BoardHydra](https://boardhydra.com), with hydra and kanban-board wallpapers.
 
 ![Preview](preview.png)
+
+## Screenshots
+
+| Hydra wallpaper | Board wallpaper with BoardHydra Desk |
+| --- | --- |
+| ![BoardHydra hydra wallpaper with blue, teal and green heads on a violet-black desktop](screenshots/hydra-desktop.png) | ![BoardHydra Desk displaying sample cards in the Holo style over the board wallpaper](screenshots/board-desktop.png) |
+
+The live cards, search, filters and Holo styling in the board screenshot come from the optional [BoardHydra Desk plugin](https://github.com/MadeBySaints/omarchy-boardhydra-desk). The theme supplies the wallpaper and desktop palette.
+
+<details>
+<summary>Lock screen preview</summary>
+
+![BoardHydra lock screen](preview-unlock.png)
+
+</details>
 
 ## Install
 
